@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+  
+  .wrapper {
+    background-color: black
+    border: 1px solid black;
+  }
+  
+  .one
+    {height: 50px; 
+      background-color:black;
+      color: white;
+      text-align: center;
+      font-size: 30px;
+      
+  }
+  .two 
+  img {
+    width: 1300px;
+    height: 300px;
+    background: black;
+    
+    
+  }
+  
+  .three {
+    height: 100px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    position: relative; bottom: 30px
+  }
+  
+  .four {
+    height: 200px;
+    background-color:gray;
+    display: flex;
+    flex-direction: column;
+    position: relative; bottom: 30px
+  }
+  
+  .top {
+    height: 20px;
+    background-color:gray;
+    color: white;
+      text-align: center;
+      font-size: 30px;
+    position: relative; bottom: 5px
+  
+  }
+  
+
+  .five {
+    height: 50px;
+    background-color: black;
+    position: relative; bottom: -30px
+  }
+  
+  .left {
+    height: 0px;
+    width: 60%;
+    background-color:black;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    
+  }
+ 
+
+  .bottom {
+    height: 80%;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative; bottom: -90px
+  
+  }
+  
+  .img {
+    width: 60%;
+    height: 250%;
+    background-color: black
+  
+  }
+ 
+
+  img{
+    width: 100%;
+    height: 80%;
+    background-color: black;
+    
+    
+  }
+  
+  
+  img {
+    width: 100%;
+    height: 80%;
+    background-color: black;
+  }
+
+   
+  img {
+    
+    width: 250px;
+    height: 80px;
+    border: 2px solid black;
+    
+  }
+  
+
+  .footer {
+    height: 50px; 
+    background-color:gray;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    position: relative; bottom: -10px
+
+    }
